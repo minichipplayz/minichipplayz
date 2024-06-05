@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @minichipplayz
+- 👀 I’m interested in My yt channel
+- 🌱 I’m currently learning Goalkeeper in soccer
+  
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+minichipplayz/minichipplayz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
